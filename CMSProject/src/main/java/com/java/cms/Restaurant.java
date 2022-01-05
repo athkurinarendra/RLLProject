@@ -49,6 +49,18 @@ public class Restaurant {
 		return "Restaurant [restaurantid=" + restaurantid + ", restaurantname=" + restaurantname + ", city=" + city
 				+ ", branch=" + branch + ", email=" + email + ", contactno=" + contactno + "]";
 	}
+	public void setRid(int int1) {
+		// TODO Auto-generated method stub
+		
+	}
+	public void setContactNo(String string) {
+		// TODO Auto-generated method stub
+		
+	}
+	public void setRname(String string) {
+		// TODO Auto-generated method stub
+		
+	}
 	
 	
 }
